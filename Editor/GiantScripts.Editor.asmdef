@@ -1,0 +1,11 @@
+{
+  "name": "GiantScripts.Editor",
+  "rootNamespace": "GiantScripts.Editor",
+  "references": [
+    "GiantScripts"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
