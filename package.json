@@ -1,6 +1,6 @@
 {
   "name": "com.ttest.giant-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "TTest Giant Scripts",
   "description": "Assembly definition and compilation-time sample scripts for the TTest project.",
   "unity": "6000.0",
